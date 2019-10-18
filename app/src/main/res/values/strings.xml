@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MyRestaurant</string>
+    <string name="find_restaurants">Find Restaurants</string>
+    <string name="myRestaurants">My Restaurants</string>
+    <string name="my_restaurants">My Restaurants</string>
+    <string name="img">img</string>
+    <string name="find_restaurants_button">find Restaurants button</string>
+    <string name="findRestaurants">Find Restaurants</string>
+    <string name="enterZipCode">Enter Zip Code</string>
+    <string name="restaurants_near">Restaurants Near</string>
+
 </resources>
